@@ -106,7 +106,8 @@ body, h1, h2, h3, a{
     justify-content: space-between;
 }
 
-.section.recursos .recurso-box{right: ;
+.section.recursos .recurso-box{
+    
     width: 280px;
     height: 192px;
     text-align: left;
