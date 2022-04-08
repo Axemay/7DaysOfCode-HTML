@@ -70,7 +70,7 @@ body, h1, h2, h3, a{
     width: 800px;
 }
 
-.section .subtitle.tag{
+.subtitle.tag{
     color: #8E2424;
     font-weight: 600;
     font-size: 16px;
@@ -79,7 +79,7 @@ body, h1, h2, h3, a{
 
 }
 
-.section .subtitle.question{
+.subtitle.question{
     color: #101828;
     font-weight: 600;
     font-size: 48px;
@@ -87,7 +87,7 @@ body, h1, h2, h3, a{
     margin-bottom: 24px;
 }
 
-.section-recursos{
+.section{
     color: #667085;
     height: 288px;
     display: flex;
@@ -100,13 +100,21 @@ body, h1, h2, h3, a{
 
 }
 
-.section-recursos .recurso-box{
+.section.recursos{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    justify-content: space-between;
+}
+
+.section.recursos .recurso-box{right: ;
     width: 280px;
     height: 192px;
+    text-align: left;
+    
 }
 
 
-.section-recursos .recurso-box .title-recursos{
+.section.recursos .recurso-box .title-recursos{
     color:  #8E2424;
     font-weight: 600;
     font-size: 60px;
@@ -114,10 +122,24 @@ body, h1, h2, h3, a{
 }
 
 
-.section-recursos .recurso-box .subtitle-recursos{
+.section.recursos .recurso-box .subtitle-recursos{
     color: #101828;
     font-weight: 600;
     font-size: 18px;
     line-height: 28px;
+}
+
+.subtitle.tag.vagas{
+    display: inline;
+    padding: 0.5em;
+    background-color: rgb(142, 36, 36, 0.2);
+    border: 1em;
+  border-radius: 2em;
+ 
+}
+
+.section .vagas-abertas .image{
+   margin-top: 1rem;
+    width: 80%;
 }
 
