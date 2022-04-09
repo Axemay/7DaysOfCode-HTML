@@ -30,6 +30,11 @@ body, h1, h2, h3, a{
     margin-right: 2rem;
 }
 
+.navigation .menu:hover{
+ color: #8E2424;
+ cursor: pointer;
+}
+
 .button{
     font-family: 'Inter', sans-serif;
     font-size: 16px;
@@ -66,6 +71,15 @@ body, h1, h2, h3, a{
     padding: 0px 0px 36px;
     
     margin-top: 96px;
+}
+
+
+.entrar:hover{
+    color: #8E2424;
+}
+
+button:hover{
+    cursor: pointer;
 }
 
 .section .sobre-nos {
