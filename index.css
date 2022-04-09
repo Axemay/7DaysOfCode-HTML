@@ -1,7 +1,6 @@
 body, h1, h2, h3, a{
     font-family: 'Inter', sans-serif;
     color:#667085;
-
     margin: 0;
     padding: 0;
 }
@@ -37,7 +36,7 @@ body, h1, h2, h3, a{
     
 }
 
-.button .cadastrar {
+.cadastrar {
     color: #ffffff;
     font-size: 16px;
     background: #8E2424;
@@ -65,7 +64,7 @@ body, h1, h2, h3, a{
     flex-wrap: wrap;
     align-items: center;
     padding: 0px 0px 36px;
-    margin-bottom: 36px;
+    
     margin-top: 96px;
 }
 
@@ -176,13 +175,69 @@ body, h1, h2, h3, a{
 }
 
 .secao-vagas .vaga{
-    align-content: center;
+    box-sizing: border-box;
+    align-items: center;
     width: 768px;
     height: 136px;
-    border: 1px solid #EAECF0;
+    border: 2px solid #EAECF0;
     border-radius: 16px;
     padding: 10px;
     margin: 30px auto;
    
 }
 
+
+.subtitle.question.depoimento{
+
+    font-size: 36px;
+
+}
+
+.box-depoimento{
+    width: 1216px;
+    height: 404px;
+    left: 32px;
+    top: 0px;
+
+}
+
+.colaborador{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 1216px;
+    height: 148px;
+    left: 32px;
+    top: 0px;
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+}
+
+.name{
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+.cargo{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.section.contato{
+    padding-top: 20px;
+    background: #E5E5E5;
+}
+
+.section.contato input{
+    width: 360px;
+    height: 26px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px;
+
+}
+
+.section.contato .footer{
+    margin-top: 20px;
+    font-size: 16px;
+}
