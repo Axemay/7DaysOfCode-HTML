@@ -2,7 +2,7 @@
 
 <p><a href="https://axemay.github.io/7DaysOfCode-HTML/">Projeto</a> desenvolvido durante o desafio proposto pela Alura. </p>
 
-<p>O desafio consistiu na realização de tarefas diárias até a conclusão do projeto em 7 dias. O projeto foi desenvolvido em HTML e CSS e seu layout foi desenvolvido pela Alura</p>
+<p>O desafio consistiu na realização de tarefas diárias até a conclusão do projeto em 7 dias. O projeto foi desenvolvido em HTML e CSS e seu layout foi desenvolvido pela Alura.</p>
 
 <h2>Escopo do projeto</h2>
 <p>Uma empresa de TI quer desenvolver uma página destinada a novas contratações. Para isso, enviaram um layout no <a heref="https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1">Figma</a>.</p>
