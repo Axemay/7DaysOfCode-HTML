@@ -1,6 +1,6 @@
 <h1> 7DaysOfCode - HTML </h1>
 
-<p><a href="https://axemay.github.io/HTML_CSS_7DaysOfCode/">Projeto</a> desenvolvido durante o desafio proposto pela Alura. </p>
+<p><a href="https://axemay.github.io/7DaysOfCode-HTML/">Projeto</a> desenvolvido durante o desafio proposto pela Alura. </p>
 
 <p>O desafio consistiu na realização de tarefas diárias até a conclusão do projeto em 7 dias. O projeto foi desenvolvido em HTML e CSS e seu layout foi desenvolvido pela Alura</p>
 
